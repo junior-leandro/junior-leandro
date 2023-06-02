@@ -7,4 +7,4 @@ Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo<br/><b
   
  #
  ## Profile
- ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko)
+ ![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko)

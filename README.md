@@ -1,4 +1,4 @@
-# Olá Mundo!
+# Hello World!
 ### Meu nome é Junior, eu estudo para ser um desenvolvedor web!
 
 Sou graduando em Analise e Desenvoolvimento de Sistemas pela Universidade Paulista (UNIP). Divido atualmente meu dia em duas partes: Na primeira parte do dia eu estudo e me desenvolvo nas tencnologias que preciso para executar minhas atividades, e na segunda parte do dia eu trabalho em uma barbearia.<br/><br/>

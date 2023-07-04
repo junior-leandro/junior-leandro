@@ -1,10 +1,19 @@
 # Hello World!
-### Meu nome é Junior, eu estudo para ser um desenvolvedor web!
+### Meu nome é Junior, eu sou um Desenvolvedor Front-End!
 
-Sou graduando em Analise e Desenvoolvimento de Sistemas pela Universidade Paulista (UNIP). Divido atualmente meu dia em duas partes: Na primeira parte do dia eu estudo e me desenvolvo nas tecnologias que preciso para executar minhas atividades, e na segunda parte do dia eu trabalho em uma barbearia.<br/><br/>
-Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo<br/><br/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 /> <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40 /> <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40 /> <img alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
-  
- #
- ## Profile
- ![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko)
+Sou graduando em Analise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). 
+Me especializando em frontend com HTML, CSS, Boostrap, JavaScript, TypeScript e React que são as ferramentas que atualmente mais uso no meu cotidiano.
+Tenho experiência em desenvolvimento de sites responsivos buscando o melhor desempenho nos diferentes dispositivos.
+
+Divido meu dia em duas partes: Na primeira parte do dia eu desenvolvo aplicações nas tecnologias tenho conhecimento, e estudo novas tecnologias para melhor meu desempenho e produtividade.
+Na segunda parte do dia eu trabalho em uma barbearia.<br/><br/>
+Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo:<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,vite,vscode,bootstrap,vercel,figma,wordpress,arduino,ai,regex,tailwind&perline=9)](https://skillicons.dev)
+#
+## Perfil
+![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko)
+<br/><br/>
+## Link's
+> www.linkedin.com/in/junior-oliveira-leandro // LinkedIn<br/>
+> www.junior.dev.br // Portifólio<br/>
+> www.instagram.com/jr_uba // Instagram

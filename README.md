@@ -10,7 +10,8 @@ Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo:<br/><
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,angular,nextjs,vite,vscode,bootstrap,vercel,figma,wordpress,ai,tailwind&perline=9)](https://skillicons.dev)
 #
 ## Perfil
-![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko)
+![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko&rank_icon=github)  
+![Top Langs](https://githubreadmejunior.vercel.app/api/top-langs/?username=junior-leandro&hide_progress=true&theme=merko)
 <br/><br/>
 ## Link's
 > www.linkedin.com/in/junior-oliveira-leandro // LinkedIn<br/>

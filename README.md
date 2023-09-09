@@ -2,8 +2,8 @@
 ### Meu nome é Junior, eu sou um Desenvolvedor Frontend!
 
 Sou graduando em Analise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). 
-Me especializando em frontend com HTML, CSS, Boostrap, JavaScript, TypeScript, React, Next.js e Angular que são as ferramentas que atualmente mais uso no meu cotidiano.
-Tenho experiência em desenvolvimento de sites responsivos buscando o melhor desempenho nos diferentes dispositivos.
+Me especializando em frontend com HTML5, CSS3, Tailwind, SASS, JavaScript, TypeScript, React, Next.js e Angular que são as ferramentas que atualmente mais uso no meu cotidiano.
+Tenho experiência em desenvolvimento de sites responsivos buscando o melhor desempenho e experiência do usúario (UI e UX) nos diferentes dispositivos.
 
 Divido meu dia em duas partes: Na primeira parte do dia eu desenvolvo aplicações nas tecnologias que tenho conhecimento, e estudo novas tecnologias para melhorar meu desempenho e produtividade, e na segunda parte do dia eu trabalho em uma barbearia.<br/><br/>
 Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo:<br/><br/>

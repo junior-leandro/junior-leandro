@@ -1,25 +1,71 @@
-# Hello World!
-### Meu nome é Junior, eu sou um Desenvolvedor Frontend!
+# Hello World! 🚀
+### Hi, my name is Junior, I'm a Frontend Developer!
 
-Sou graduando em Analise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). 
-Me especializando em frontend com HTML5, CSS3, Tailwind, SASS, JavaScript, TypeScript, React, Next.js e Angular que são as ferramentas que atualmente mais uso no meu cotidiano.
-Tenho experiência em desenvolvimento de sites responsivos buscando o melhor desempenho e experiência do usúario (UI e UX) nos diferentes dispositivos.
+👤 About:
 
-Divido meu dia em duas partes: Na primeira parte do dia eu desenvolvo aplicações nas tecnologias que tenho conhecimento, e estudo novas tecnologias para melhorar meu desempenho e produtividade, e na segunda parte do dia eu trabalho em uma barbearia.<br/><br/>
-Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo:<br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,angular,nextjs,vite,vscode,bootstrap,vercel,figma,wordpress,ai,tailwind&perline=9)](https://skillicons.dev)
-#
-## Perfil
-![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko&rank_icon=github)  
+ ``` javascript
+ const infos = {
+   name: 'Junior Oliveira Leandro',
+   country: 'Brazil',
+   state: 'São Paulo',
+   city: 'Ubatuba',
+   status: 'Software Analysis and Development Student',
+   profession: 'Frontend Developer',
+   soft-skills: [
+      'communication',
+      'determination',
+      'organization',
+      'creativity',
+      'team work'
+    ],
+    hard-skills: [
+      'HTML 5',
+      'CSS 3',
+      'JavaScript',
+      'TypeScript',
+      'Node.JS',
+      'Next.JS',
+      'React.JS',
+      'Git',      
+    ]
+}
+
+function description(){
+      return [
+
+      'Specialized in frontend web development.',
+      'Experience in developing responsive websites seeking the best performance and user experience.',
+      'Focus on offering great user experiences through simple and functional interfaces.'
+     
+    ];
+}
+```
+<br/>
+ 
+💻 **Tech Stack:** <br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,angular,vite,git,github,vscode,vercel,figma,wordpress,ai,tailwind,styledcomponents&perline=9)](https://skillicons.dev)
+ <br/> <br/>
+
+📊 **GitHub Stats:** <br/>
+
+![Junior GitHub stats](https://githubreadmejunior.vercel.app/api?username=junior-leandro&show_icons=true&theme=merko&rank_icon=github) 
 ![Top Langs](https://githubreadmejunior.vercel.app/api/top-langs/?username=junior-leandro&hide_progress=true&theme=merko)
-<br/><br/>
-## Link's
-> www.linkedin.com/in/junior-oliveira-leandro // LinkedIn<br/>
-> www.junior.dev.br // Portifólio<br/>
-> www.instagram.com/jr_uba // Instagram
-<br/><br/>
-## GitHub Status
+
+<br/>
+ 
+🌐 **Contact info:** <br/>
+
+> www.linkedin.com/in/junior-oliveira-leandro // LinkedIn <br/>
+> www.junior.dev.br // Portifólio <br/>
+> www.instagram.com/jr_uba // Instagram <br/>
+> contato_jr@outlook.com // E-mail
+
+
 
 <div align='center'>
+  
+🎯 **GitHub Metrics**
+
 <a height="140em" href="http://www.github.com/junior-leandro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=junior-leandro&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>

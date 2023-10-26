@@ -1,23 +1,22 @@
 # Hello World! 🚀
-### Hi, my name is Junior, I'm a Frontend Developer!
+### Hi, my name is Junior, I'm a Front-end Developer!
 
 👤 About:
 
  ``` javascript
- const infos = {
+const Infos = {
    name: 'Junior Oliveira Leandro',
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',
-   status: 'Software Analysis and Development Student',
-   profession: 'Frontend Developer',
+   status: 'Systems Analysis and Development Student',
+   profession: 'Front-End Developer',
    soft-skills: [
       'communication',
       'determination',
       'organization',
       'creativity',
-      'team work'
-    ],
+      'team work'],
     hard-skills: [
       'HTML 5',
       'CSS 3',
@@ -26,18 +25,15 @@
       'Node.JS',
       'Next.JS',
       'React.JS',
-      'Git',      
-    ]
+      'Git']
 }
 
-function description(){
-      return [
-
-      'Specialized in frontend web development.',
-      'Experience in developing responsive websites seeking the best performance and user experience.',
-      'Focus on offering great user experiences through simple and functional interfaces.'
-     
-    ];
+function Description(){
+      return (
+       'Specialized in front-end web development.',
+       'Experience in developing responsive websites seeking the best performance and user experience.',
+       'Focus on offering great user experiences through simple and functional interfaces.'
+      );
 }
 ```
 <br/>

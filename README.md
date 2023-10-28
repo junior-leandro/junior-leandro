@@ -52,7 +52,7 @@ function Description(){
  
 🌐 **Contact info:** <br/>
 
-> www.linkedin.com/in/junior-oliveira-leandro // LinkedIn <br/>
+> www.linkedin.com/in/junior-leandro // LinkedIn <br/>
 > www.junior.dev.br // Portifólio <br/>
 > www.instagram.com/jr_uba // Instagram <br/>
 > contato_jr@outlook.com // E-mail

@@ -1,4 +1,3 @@
-# Hello World! 🚀
 ### Hi, my name is Junior, I'm a Front-end Developer!
 
 👤 About:
@@ -39,6 +38,7 @@ function Description(){
 <br/>
  
 💻 **Tech Stack:** <br/>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,angular,vite,git,github,vscode,vercel,figma,wordpress,ai,tailwind,styledcomponents&perline=9)](https://skillicons.dev)
  <br/> <br/>

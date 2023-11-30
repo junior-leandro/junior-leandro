@@ -8,7 +8,7 @@ const Infos = {
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',
-   status: 'Systems Analysis and Development Student',
+   status: 'Student of Systems Analysis and Development and Cybersecurity',
    profession: 'Front-End Developer',
    soft-skills: [
       'communication',
@@ -31,7 +31,8 @@ function Description(){
       return (
        'Specialized in front-end web development.',
        'Experience in developing responsive websites seeking the best performance and user experience.',
-       'Focus on offering great user experiences through simple and functional interfaces.'
+       'Focus on offering great user experiences through simple and functional interfaces.',
+       'Student in a Cybersecurity bootcamp'
       );
 }
 ```

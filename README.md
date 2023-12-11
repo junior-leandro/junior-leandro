@@ -32,7 +32,7 @@ function Description(){
        'Specialized in front-end web development.',
        'Experience in developing responsive websites seeking the best performance and user experience.',
        'Focus on offering great user experiences through simple and functional interfaces.',
-       'Student in a Cybersecurity bootcamp'
+       'Student of Cybersecurity'
       );
 }
 ```

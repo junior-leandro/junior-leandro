@@ -15,7 +15,7 @@ const Infos = {
       'determination',
       'organization',
       'creativity',
-      'team work'],
+      'team work' ],
     hard-skills: [
       'HTML 5',
       'CSS 3',
@@ -24,7 +24,9 @@ const Infos = {
       'Node.JS',
       'Next.JS',
       'React.JS',
-      'Git']
+      'Angular.JS',
+      'Git',
+      'GitHub' ]
 }
 
 function Description(){

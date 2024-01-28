@@ -5,7 +5,7 @@
  ``` javascript
 const Infos = {
    name: 'Junior Oliveira Leandro',
-   age: '33 years'
+   age: '33 years',
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',

@@ -6,6 +6,7 @@
 const Infos = {
    name: 'Junior Oliveira Leandro',
    age: '33 years',
+   marital-status: 'married',
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',

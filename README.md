@@ -27,6 +27,7 @@ const Infos = {
       'Next.JS',
       'React.JS',
       'Angular.JS',
+      'Vue.JS',
       'Git',
       'GitHub' ]
 }
@@ -45,7 +46,7 @@ function Description(){
 💻 **Tech Stack:** <br/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,angular,vite,git,github,vscode,vercel,figma,wordpress,ai,tailwind,styledcomponents&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,angular,vue,vite,git,github,vscode,vercel,figma,wordpress,tailwind,styledcomponents&perline=9)](https://skillicons.dev)
  <br/> <br/>
 
 📊 **GitHub Stats:** <br/>

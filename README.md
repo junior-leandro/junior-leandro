@@ -6,7 +6,6 @@
 const Infos = {
    name: 'Junior Oliveira Leandro',
    age: '33 years',
-   maritalStatus: 'married',
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',
@@ -34,10 +33,11 @@ const Infos = {
 
 function Description(){
       return (
+       'I am a university ambassador for DIO'
        'Specialized in front-end web development.',
        'Experience in developing responsive websites seeking the best performance and user experience.',
        'Focus on offering great user experiences through simple and functional interfaces.',
-       'Student of Cybersecurity'
+       'Cybersecurity Enthusiast'
       );
 }
 ```

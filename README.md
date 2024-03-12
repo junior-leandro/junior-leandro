@@ -33,7 +33,7 @@ const Infos = {
 
 function Description(){
       return (
-       'I am a university ambassador for DIO'
+       'I am a university ambassador for DIO Campus Expert'
        'Specialized in front-end web development.',
        'Experience in developing responsive websites seeking the best performance and user experience.',
        'Focus on offering great user experiences through simple and functional interfaces.',

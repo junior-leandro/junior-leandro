@@ -9,7 +9,7 @@ const Infos = {
    country: 'Brazil',
    state: 'São Paulo',
    city: 'Ubatuba',
-   status: 'Student of Systems Analysis and Development and Cybersecurity',
+   status: 'Student of Systems Analysis and Development',
    profession: 'Front-End Developer',
    soft-skills: [
       'communication',
@@ -18,8 +18,8 @@ const Infos = {
       'creativity',
       'team work' ],
     hard-skills: [
-      'HTML 5',
-      'CSS 3',
+      'HTML5',
+      'CSS3',
       'JavaScript',
       'TypeScript',
       'Node.JS',
